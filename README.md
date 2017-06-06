@@ -1,0 +1,2 @@
+# Data-Store-Client-Server-
+Constructed a client-server system that communicates over TCP/IP sockets.  The server performs 4 tasks which are store, retrieve, delete, &amp; list named data sets on the server. Each data set is associated with a string name provided in the client’s request to the server. The server is responsible for storing this data in a persistent fashion for later retrieval. Data is persistently stored in files in a directory under the project directory. 
